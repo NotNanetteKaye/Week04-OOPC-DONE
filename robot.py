@@ -1,9 +1,14 @@
 
 from unicodedata import name
+from weapon import Weapon
 
 
 class Robot:
-    def __init__(self, health, active_weapon):
+    def __init__(self, name):
         self.name = name
-        self.health = health  
-        self.active_weapon = active_weapon
+        self.health = 100  
+        self.active_weapon = Weapon()
+    
+    def attack_dinosaur(self, dinosaur):
+        pass
+    # will be a void function: does not return anything
