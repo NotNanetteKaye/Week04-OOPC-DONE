@@ -1,15 +1,16 @@
 
-from email.base64mime import header_length
-from unicodedata import name
-
-
 class Dinosaur:
     def __init__(self, name, attack_power):
         self.name = name
-        self.health = int()
-        self.attack_power = int()
+        self.health = 100
+        self.attack_power = int(attack_power)
 
     def attack(self, robot):
-        robot = ''
+        robot -= self.attack_power
+        print(f"{self.name} attacked Robot Rowdy for {self.attack_power} damage!")
+        print(f"Robot Rowdy has {robot} health remaining!")
         # will be a void function
-        pass
+    
+
+dino_darling = Dinosaur("Dino Darling", 80)
+dino_darling.attack(100)

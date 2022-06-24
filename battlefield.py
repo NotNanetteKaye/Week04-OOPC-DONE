@@ -7,17 +7,17 @@ class Battlefield:
         dinosaur = Dinosaur()
     
     def run_game(self):
-        # will be a void function
-        pass
+       pass
 
     def display_welcome(self):
-        # will be a void function
-        pass
+       print("Welcome to an epic battle! Only one side can win!!")
+       print("Only one side can win!")
+
 
     def battle_phase(self):
         # will be a void function
         pass
 
-    def display_winnder(self):
+    def display_winner(self):
         # will be a void function
         pass
