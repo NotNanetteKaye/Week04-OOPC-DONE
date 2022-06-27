@@ -1,22 +1,18 @@
-
-# from unicodedata import name
-# from dinosaur import Dinosaur
-# from weapon import Weapon
-# from battlefield import Battlefield
-
+from weapon import Weapon
 
 class Robot:
     def __init__(self, name):
         self.name = name
         self.health = 100 
-        # self.active_weapon = Weapon()
+        self.active_weapon = Weapon("knife", 20)
+        pass
     
-    def attack_dinosaur(self, dinosaur):
-      dinosaur -= self.health - 35
-      print(f"{self.name} attacked dinosaur.name with a weapon.name for {dinosaur} damage!")
-      print("Dinosaur.name has health remaining!")
+    def attack(self, dinosaur):
+      dinosaur.health -= self.active_weapon.attack_power
+      print(f"{self.name} attacked Dino Darling with a {self.active_weapon.name} for {self.active_weapon.attack_power} damage!")
+      print(f"Dino Darling has {dinosaur.health} health remaining!")
+      pass
     # # will be a void function: does not return anything
 
 
-robot_Nanette = Robot("Nanette")
-print(robot_Nanette.name)
+
