@@ -10,7 +10,7 @@ Links:
 \- Framework: https://docs.google.com/document/d/1EVXlH0NeBci-1_Fj8vrf_gEonm_98euv/edit#bookmark=id.30j0zll  
 \- User Stories: https://docs.google.com/document/d/1bULXFKrhWRpRgjULJ3HMlj9mdsHOc_R_/edit  
 
-## CODE DEMO
+## DOG-TOY-COLLAR OBJECTS 
 ##### Class Diagram:
 ![](images/class_diagram.png)
 
