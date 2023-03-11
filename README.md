@@ -1,4 +1,5 @@
-# Robots-vs-Dinosaurs
+# WEEK 4: OBJECT ORIENTED PROGRAMMING PRACTICE
+# PROJECTS: 
+### ROBOTS VS DINOSAURS
+### CODE DEMO
 
-hello
-world
