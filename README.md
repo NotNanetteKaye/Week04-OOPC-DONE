@@ -11,4 +11,6 @@ Links:
 \- User Stories: https://docs.google.com/document/d/1bULXFKrhWRpRgjULJ3HMlj9mdsHOc_R_/edit  
 
 #### CODE DEMO
+##### Class Diagram:
+![](images/class_diagram.png)
 
