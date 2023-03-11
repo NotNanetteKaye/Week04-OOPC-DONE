@@ -1,6 +1,6 @@
 # WEEK 4: OBJECT ORIENTED PROGRAMMING PART II
 
-### PROJECTS IN THIS GIT: 
+## PROJECTS IN THIS GIT: 
 #### ROBOTS VS DINOSAURS
 "In previous projects, you became adjusted to the practice of creating the flow of your programs by writing functions and calling functions – this is an approach known as the “functional programming” paradigm.  
 
