@@ -1,5 +1,6 @@
 # WEEK 4: OBJECT ORIENTED PROGRAMMING PART II  
-\- Notes: https://docs.google.com/document/d/1hMM5pSB3ZVBnWRZlrKwyavUWnxImiZcFSHaqXjhjC3o/edit
+\- Notes: https://docs.google.com/document/d/1hMM5pSB3ZVBnWRZlrKwyavUWnxImiZcFSHaqXjhjC3o/edit  
+\- Key Concepts: Unified Modeling Language, Class Diagrams 🟨
 
 ### PROJECTS IN THIS GIT: 
 ## ROBOTS VS DINOSAURS
