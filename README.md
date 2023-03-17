@@ -2,7 +2,7 @@
 \- Notes: https://docs.google.com/document/d/1hMM5pSB3ZVBnWRZlrKwyavUWnxImiZcFSHaqXjhjC3o/edit  
 \- Key Concepts: Unified Modeling Language, Class Diagrams 🟨
 
-### PROJECTS IN THIS GIT: 
+### PROJECTS IN THIS GIT (2): 
 ## ROBOTS VS DINOSAURS
 "In previous projects, you became adjusted to the practice of creating the flow of your programs by writing functions and calling functions – this is an approach known as the “functional programming” paradigm.  
 
@@ -12,7 +12,7 @@ Links:
 \- User Stories: https://docs.google.com/document/d/1bULXFKrhWRpRgjULJ3HMlj9mdsHOc_R_/edit  
 ![](images/RPSLS.png)   
 
-## DOG-TOY-COLLAR OBJECTS 
+## CODE DEMO: DOG-TOY-COLLAR OBJECTS 
 ##### Class Diagram:
 ![](images/class_diagram.png)
 
